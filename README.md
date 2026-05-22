@@ -1,6 +1,6 @@
 # Shaurya Maloo
 
-Pre-final year CS undergrad @ VIT Vellore · Building ML systems, APIs, and research tools
+Final year CS undergrad @ VIT Vellore · Building ML systems, APIs, and research tools
 
 ---
 
